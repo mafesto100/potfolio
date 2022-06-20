@@ -9,7 +9,7 @@ function App() {
       <NavBar/>
       <About/>
       <Sovtech/>
-      
+  
       <SocialLinks/>
    </div>
   );

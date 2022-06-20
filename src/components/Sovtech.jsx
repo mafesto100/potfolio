@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sovtech = () => {
   return (
-    <div name='sovtech' className='w-full h-screen bg-gradient-to-b from-slate-900 to-slate-800 text-teal-500'>
+    <div name='sovtech' className='w-full h-screen bg-slate-900 text-teal-500'>
 
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
 
@@ -25,7 +25,7 @@ const Sovtech = () => {
             </p>
         </div>
 
-        <br/>
+        
 
     </div>
   )
