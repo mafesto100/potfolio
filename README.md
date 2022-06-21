@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The application can be accessed from here: [Demo](https://62b0b750aa8c746da7b7c897--statuesque-smakager-91cd9f.netlify.app/)
+The application can be accessed from here: [Demo](https://statuesque-smakager-91cd9f.netlify.app/)
 
 ## Available Scripts
 
